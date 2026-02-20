@@ -1,0 +1,3 @@
+RUGAYA FILMS - 3 Tier Architecture
+Frontend -> Backend -> PostgreSQL
+EC2 + S3 Integration
