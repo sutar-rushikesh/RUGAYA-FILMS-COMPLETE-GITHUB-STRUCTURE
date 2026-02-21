@@ -1,0 +1,6 @@
+EC2 Deployment Guide
+Launch Ubuntu EC2
+Install Docker
+Clone Repository
+Run docker-compose up -d
+Open Security Group ports
