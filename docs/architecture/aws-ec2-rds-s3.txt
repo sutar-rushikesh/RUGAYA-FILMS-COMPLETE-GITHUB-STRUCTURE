@@ -1,0 +1,4 @@
+AWS Architecture
+EC2 (App)
+RDS (Database)
+S3 (Images)
